@@ -1,0 +1,1 @@
+# Goodwe_Chargegrid_Intelligence
