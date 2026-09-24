@@ -7,16 +7,16 @@ Plataforma de gestão e agendamento de recarga para veículos elétricos em cond
 O projeto foi estruturado para simular um ambiente real de recarga, desde a interação do utilizador até à libertação física do equipamento:
 
 * Back-end: Desenvolvido em Python com recurso à framework FastAPI e servidor Uvicorn.
-* Base de Dados: Supabase utilizado para persistência de dados de utilizadores e agendamentos[cite: 5].
+* Base de Dados: Supabase utilizado para persistência de dados de utilizadores e agendamentos.
 * Inteligência Artificial: Integração com o Google GenAI SDK (modelo Gemini 2.5 Flash) com System Instructions, atuando como assistente virtual de suporte ao utilizador.
-* Hardware / IoT: Simulação de um totem de recarga com um microcontrolador ESP32, integrado através da plataforma Wokwi[cite: 5].
+* Hardware / IoT: Simulação de um totem de recarga com um microcontrolador ESP32, integrado através da plataforma Wokwi.
 * Front-end: Interface construída com HTML5, JavaScript e TailwindCSS.
 
 ## Estrutura do Repositório
 
 * `/backend`: Lógica da API em FastAPI e integração com o modelo generativo.
-* `/Simulation` e `/src`: Código em C/C++ do microcontrolador ESP32 e configurações para a plataforma online Wokwi[cite: 5].
-* `/docs`: Documentação visual da interface web e estrutura da base de dados[cite: 5].
+* `/Simulation` e `/src`: Código em C/C++ do microcontrolador ESP32 e configurações para a plataforma online Wokwi.
+* `/docs`: Documentação visual da interface web e estrutura da base de dados.
 
 ## Interface do Utilizador
 
