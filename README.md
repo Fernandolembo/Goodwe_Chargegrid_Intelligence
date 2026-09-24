@@ -24,11 +24,11 @@ As capturas de ecrã abaixo demonstram o fluxo principal de navegação constru�
 
 | Login e Identificação | Mapeamento de Postos |
 | :---: | :---: |
-| <img src="./docs/mapa.png" width="250"> | <img src="./docs/Captura de tela 2026-09-24 181803.jpg" width="250"> |
+| <img src="./docs/login.png" width="250"> | <img src="./docs/mapa.jpg" width="250"> |
 
 | Agendamento de Recarga | Libertação no Totem |
 | :---: | :---: |
-| <img src="./docs/recarga.png" width="250"> | <img src="./docs/image_908583.png" width="250"> |
+| <img src="./docs/recarga.png" width="250"> | <img src="./docs/totem" width="250"> |
 
 ## Fluxo de Integração IoT
 
